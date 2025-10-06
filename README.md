@@ -58,8 +58,8 @@ Publish the website in the LocalHost.
         <img src="static\author.jpg" alt="author.jpg" style="width: 100%; height: 100%;"></div>
             
     
-        <div><p style="position:absolute;bottom:80px;right:56px;font-size: 14px; margin: 0;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;"></p>
-        <p style="position:absolute;bottom:65px;right:56px;font-size: 14px; margin: 0;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;">2025-2029</p></div>
+        <div><p style="position:absolute;bottom:80px;font-size: 14px; margin: 0; left: 270px;">Yuval Noah Harari</p>
+        <p style="position:absolute;bottom:65px;right:56px;font-size: 14px; margin: 0;">2014</p></div>
     
 </div>
 
@@ -76,10 +76,9 @@ Publish the website in the LocalHost.
 
 
 
-
 ```
 # OUTPUT:
-![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (38).png>)
 
 
 # RESULT:
